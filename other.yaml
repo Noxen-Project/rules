@@ -1,0 +1,7 @@
+# NAME: Other
+
+payload:
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,ntc.party
